@@ -1,0 +1,5 @@
+browser\BrowserGetter.class
+taudemo\seleniumtest.class
+org\example\AppTest.class
+taudemo\WithAssertionsTest.class
+taudemo\WithConfigurationTest.class
