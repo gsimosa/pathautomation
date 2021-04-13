@@ -15,6 +15,9 @@ import static org.junit.jupiter.api.TestInstance.Lifecycle.PER_CLASS;
 
 public class seleniumtest {
 
+    //test
+    
+
 private final BrowserGetter browserGetter = new BrowserGetter();
 private WebDriver driver;
 
